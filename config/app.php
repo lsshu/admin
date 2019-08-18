@@ -227,5 +227,5 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
     ],
-
+    'views_theme'=>env('VIEWS_THEME','default'),
 ];
